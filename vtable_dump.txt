@@ -1,0 +1,3 @@
+VTable at VA 0x141FA0E58 (RVA 0x1FA0E58)
+Offset in .rdata: 0x975E58
+
